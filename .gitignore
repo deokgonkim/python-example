@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# my files
+sqlite.db
+dump.sql
+
+# pycharm support files
+.idea
